@@ -1,0 +1,15 @@
+.background {
+    background-color:#fff;
+}
+
+.background:hover {
+    background-color: #343A40;
+}
+
+.white {
+    color:#000;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
